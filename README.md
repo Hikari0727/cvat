@@ -56,13 +56,13 @@ docker compose up -d
 
 在 CVAT 中，您可以创建一个包含相同类型任务的项目。与项目相关的所有任务都会继承一个标签列表。要创建项目，请点击顶部菜单中的”Projects”，进入项目部分。在项目页面上，您可以使用搜索功能查看项目列表，或者点击 “+”按钮并选择 “Create a new project ”来创建新项目。
 
-![截屏2024-06-04 13.54.59.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/02c6bfa9-02ad-44b9-bc04-a65d811feb93/5550a1ba-025a-4f0b-b991-e6c731f08bce/%E6%88%AA%E5%B1%8F2024-06-04_13.54.59.png)
+![img_6.png](https://github.com/Hikari0727/cvat/blob/main/cvat/img_6.png)
 
 填写项目名称以及添加自己任务的标签。
 
-![截屏2024-06-04 13.57.17.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/02c6bfa9-02ad-44b9-bc04-a65d811feb93/fda1513f-9ef3-4ec1-ad8d-a82f0bafb2c3/%E6%88%AA%E5%B1%8F2024-06-04_13.57.17.png)
+![img_7.png](https://github.com/Hikari0727/cvat/blob/main/cvat/img_7.png)
 
-![截屏2024-06-04 14.01.44.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/02c6bfa9-02ad-44b9-bc04-a65d811feb93/40c272c8-5ff5-4a01-9712-01bde66cf77d/%E6%88%AA%E5%B1%8F2024-06-04_14.01.44.png)
+![img_8.png](https://github.com/Hikari0727/cvat/blob/main/cvat/img_8.png)
 
 # 创建标注任务
 
